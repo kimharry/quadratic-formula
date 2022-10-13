@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/coding/python/manim/media/videos/manim_prac/1080p60/partial_movie_files/HelloLaTeX/450974505_1078708193_2317779118.mp4'
